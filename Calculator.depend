@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1661111997 source:/home/elitecompiler/Desktop/DevX/C++/Projects/Calculator/CalculatorApp.cpp
+	"CalculatorApp.h"
+	"CalculatorMain.h"
+	<wx/image.h>
+
+1661111997 /home/elitecompiler/Desktop/DevX/C++/Projects/Calculator/CalculatorApp.h
+	<wx/app.h>
+
+1661209373 /home/elitecompiler/Desktop/DevX/C++/Projects/Calculator/CalculatorMain.h
+	<wx/button.h>
+	<wx/frame.h>
+	<wx/menu.h>
+	<wx/panel.h>
+	<wx/statusbr.h>
+	<wx/textctrl.h>
+
+1661208976 source:/home/elitecompiler/Desktop/DevX/C++/Projects/Calculator/CalculatorMain.cpp
+	"CalculatorMain.h"
+	<wx/msgdlg.h>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/string.h>
+
